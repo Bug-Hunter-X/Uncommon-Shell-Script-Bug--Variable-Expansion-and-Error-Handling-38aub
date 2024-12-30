@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a shell script related to variable expansion and error handling. The script attempts to process a file line by line, but it mishandles cases where the file doesn't exist or contains errors. The `bug.sh` file contains the buggy script, while `bugSolution.sh` provides the corrected version.
